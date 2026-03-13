@@ -1,4 +1,4 @@
-# ANN Time Series Prediction Project
+# ANN Time Series Prediction Project 
 
 A browser-based artificial neural network project for time series prediction, built with TensorFlow.js. This project compares 2-3 different neural network model architectures for predicting cycling speed based on various environmental factors.
 
