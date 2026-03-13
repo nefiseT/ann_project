@@ -54,6 +54,3 @@ A browser-based artificial neural network project for time series prediction, bu
 - `data.js` - Training data and preprocessing
 - `models.js` - Neural network model architectures
 
-## License
-
-MIT License
